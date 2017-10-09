@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d4010209ee1934292d57847cbb377f, type: 3}
+  m_Name: Socks
+  m_EditorClassIdentifier: 
+  GUID: e27e7e59111210141bb70cbdff58f4f6
+  Prefab: {fileID: 1239208273229068, guid: e47cdfaae94405143943ee38ead57247, type: 2}

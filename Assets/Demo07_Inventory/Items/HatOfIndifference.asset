@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23d4010209ee1934292d57847cbb377f, type: 3}
+  m_Name: HatOfIndifference
+  m_EditorClassIdentifier: 
+  GUID: 78d783846b8abb3488ee1e274773aec6
+  Prefab: {fileID: 1930717177566450, guid: 7a6454e4f54fa704b974c680f60e03ff, type: 2}

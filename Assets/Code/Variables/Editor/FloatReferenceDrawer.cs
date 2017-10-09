@@ -5,11 +5,10 @@
 // Date:   10/04/17
 // ----------------------------------------------------------------------------
 
-using RoboRyanTron.Unite2017.Variables;
 using UnityEditor;
 using UnityEngine;
 
-namespace RoboRyanTron.Unite2017.Assets.Code.Inventory
+namespace RoboRyanTron.Unite2017.Variables
 {
     [CustomPropertyDrawer(typeof(FloatReference))]
     public class FloatReferenceDrawer : PropertyDrawer

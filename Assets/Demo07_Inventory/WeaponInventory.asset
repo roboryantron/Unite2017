@@ -11,7 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac03e391411fff24696d0554396af28f, type: 3}
   m_Name: WeaponInventory
   m_EditorClassIdentifier: 
-  Items: []
+  Items:
+  - {fileID: 11400000, guid: 78d783846b8abb3488ee1e274773aec6, type: 2}
+  - {fileID: 11400000, guid: e27e7e59111210141bb70cbdff58f4f6, type: 2}
+  - {fileID: 11400000, guid: 52abd33f0dd972246b5eaa87a938331e, type: 2}
   Serializer: {fileID: 11400000, guid: 7e4b6badbe51fd2419660927db61d7b9, type: 2}
   InventoryState: {fileID: 114790729391325356}
   OnInventoryChanged:
@@ -41,6 +44,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91df5ddb1b95656489fd7796664808b2, type: 3}
   m_Name: InventoryState
   m_EditorClassIdentifier: 
-  OwnedGUIDS:
-  - e27e7e59111210141bb70cbdff58f4f6
+  OwnedGUIDS: []
   OwnedItem: []

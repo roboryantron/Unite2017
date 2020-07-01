@@ -1,4 +1,6 @@
 # Unite2017
+[@roboryantron](https://twitter.com/roboryantron)
+
 Sample project for Game Architecture with Scriptable Objects from Unite Austin 2017
 
 This is the source for the sample project I presented at Unite 2017. It features super-simplified implementations of systems I have built and used to ship several products.

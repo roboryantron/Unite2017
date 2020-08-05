@@ -10,7 +10,7 @@ using UnityEngine;
 
 namespace RoboRyanTron.Unite2017.Events
 {
-    [CustomEditor(typeof(GameEvent))]
+    [CustomEditor(typeof(GameEvent), editorForChildClasses: true)]
     public class EventEditor : Editor
     {
         public override void OnInspectorGUI()
